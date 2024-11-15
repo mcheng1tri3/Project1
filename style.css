@@ -1,0 +1,38 @@
+body{
+	background-color:gray;
+}
+
+h1 {
+	text-align:center;
+	font-family: hacked;
+	font-size: 3em;
+
+}
+
+.container {
+  display: flex; 
+  justify-content: space-between; 
+  flex-direction: row;
+}
+
+.text {
+  flex: 1; 
+  margin: 0 10px;
+  padding: 10px; 
+  background-color: #f0f0f0;
+}
+
+#hardtoread {
+	font-family: bedtime stories;
+}
+
+#toomuchtext {
+	font-size:5px;
+}
+
+#bored {
+	font-family: Helvetica;
+}
+
+
+
